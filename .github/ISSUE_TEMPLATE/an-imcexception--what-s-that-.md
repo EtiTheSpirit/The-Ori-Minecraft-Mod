@@ -17,4 +17,4 @@ This is an issue caused by a *different mod* that is trying to communicate with 
 
 =========================================
 
-If you see something like "Search the crash report for ...", then it means the person who made the other mod *really* messed up and actually ended up hiding their mod's actual ID from mine. In the crash report, if you follow the instructions and search the report for the given text (hint: Ctrl+F / ⌘F is your best friend), you will see instructions that will make it super easy to find the mod that's causing the problem.
+You should instead find the repository for the mod causing the problem (you can often find this at the same place you downloaded the mod from) and send the mod creator your crash report. You may even come to a webpage exactly like this one. It is of extreme importance that you link the crash report and debug.log file (.minecraft/logs) **directly after you ran the time and it crashed.**
